@@ -20,13 +20,13 @@ div#title {
 </div>
 <div id="main">
 <!-- Addition -->
-<form action="test.php" method="POST">
+<form action="results.php" method="POST">
 <input type="text" name="num1" placeholder="First number"> <b>+</b>
 <input type="text" name="num2" placeholder="Second number"><br>
 <input type="submit" value="Add"><br><br>
 
 <!-- Subtraction -->
-<form action="test.php" method="POST">
+<form action="results.php" method="POST">
 <input type="text" name="num3" placeholder="First number"> <b>-</b>
 <input type="text" name="num4" placeholder="Second number"><br>
 <input type="submit" value="Subtract">
